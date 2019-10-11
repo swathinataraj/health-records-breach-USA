@@ -1,5 +1,5 @@
 # health-records-breach-USA
-A visualisation project using R Shiny
+An interactive visualisation using R Shiny
 
 
 
